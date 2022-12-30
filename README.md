@@ -47,5 +47,8 @@
 ```
 # VII. Our future visions:
 ```
-●Shad Express sets its future vision to uphold the traditional foods of rural Bangladesh. We have started with a small number of products but, in future, we want to produce more food items and reach all over the country and even abroad. Shad Express, indeed, cherish a golden dream of establishing an enriched, promising and healthy local food business within a shortest possible time.
+●Shad Express sets its future vision to uphold the traditional foods of rural Bangladesh. We have started with 
+a small number of products but, in future, we want to produce more food items and reach all over the country and 
+even abroad. Shad Express, indeed, cherish a golden dream of establishing an enriched, promising and healthy local 
+food business within a shortest possible time.
 ```
